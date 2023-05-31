@@ -7,5 +7,6 @@
 
 ```sudo dnf install xclip```
 
+  
  # For Ubuntu
  ```sudo apt update && sudo apt install xclip```
